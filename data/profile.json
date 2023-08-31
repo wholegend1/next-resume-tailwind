@@ -1,0 +1,178 @@
+{
+  "contact": {
+    "phone": "+886 0917237253",
+    "email": "wilbur@webglsoft.com",
+    "website": "#",
+    "location": "高雄city"
+  },
+  "summary": "一個摸爬帶滾就不小心走上了工程師之路的我",
+  "education": [
+    {
+      "institution": "國立高雄科技大學",
+      "degree": "大學",
+      "start": "2018",
+      "end": "2022"
+    },
+    {
+      "institution": "國立華南高級商業職業學校",
+      "degree": "高職",
+      "start": "2014",
+      "end": "2017"
+    }
+  ],
+  "experience": [
+    {
+      "role": "前端工程師",
+      "company": "GL Soft",
+      "description": "目前在任職。",
+      "start": "03/2023",
+      "end": ""
+    },
+    {
+      "role": "超商店員",
+      "company": "7-Eleven",
+      "description": "這是在大學的最久的打工，在這份經驗中學習到的不是技術面上的東西，但讓我學會待人處事之道，讓我的抗壓性及工作效率都有效提升。",
+      "start": "02/2022",
+      "end": "06/2023"
+    }
+  ],
+  "skills": [
+    {
+      "title": "General",
+      "type": "list",
+      "subSkills": [
+        {
+          "name": "Frontend Development"
+        },
+        {
+          "name": "Mobile/Web App Development"
+        },
+        {
+          "name": "Game Development"
+        },
+        {
+          "name": "Blockchain"
+        },
+        {
+          "name": "Backend Development"
+        },
+        {
+          "name": "Data Analyst"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "UX"
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subSkills": [
+        {
+          "name": "Javascript",
+          "percent": 96
+        },
+        {
+          "name": "Java",
+          "percent": 70
+        },
+        {
+          "name": "Python",
+          "percent": 85
+        },
+        {
+          "name": "Go",
+          "percent": 60
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subSkills": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "Flask"
+        },
+        {
+          "name": "React Native"
+        },
+        {
+          "name": "Vue"
+        },
+        {
+          "name": "Spring"
+        },
+        {
+          "name": "Angular"
+        },
+        {
+          "name": "Next"
+        }
+      ]
+    },
+    {
+      "title": "SoftWares",
+      "type": "tag",
+      "subSkills": [
+        {
+          "name": "Notion"
+        },
+        {
+          "name": "Jira"
+        },
+        {
+          "name": "Slack"
+        }
+      ]
+    },
+    {
+      "title": "DataBase",
+      "type": "tag",
+      "subSkills": [
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "service": "github",
+      "url": "https://github.com/wholegend1"
+    },
+    {
+      "service": "facebook",
+      "url": "https://www.facebook.com/profile.php?id=100000350709314"
+    },
+    {
+      "service": "instagram",
+      "url": "https://www.instagram.com/weeei0402"
+    }
+  ],
+  "role": "前端工程師",
+  "projects": [
+    {
+      "name": "Open Movie Review",
+      "company": "Open source",
+      "description": "利用openAI和omdbAPI做結合，擷取電影內容後幫電影做影評的自動文案產生以及中英翻譯。 \nomdbAPI:負責擷取電影相關內容及搜尋電影資訊。\n openAI:負責產生影評及翻譯內容。",
+      "website": "https://openai-omdb.vercel.app/",
+      "link": "https://github.com/wholegend1/openai_omdb"
+    },
+    {
+      "name": "Next Resume Starter",
+      "company": "Open source",
+      "description": "Next Resume Tailwind 這是我第一份製作的履歷。",
+      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+    }
+  ],
+  "fullname": "Chang Wilbur"
+}
