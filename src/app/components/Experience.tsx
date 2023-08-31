@@ -12,7 +12,6 @@ interface ExperienceProps {
 const Experience = ({ data }: ExperienceProps) => (
   <section
     data-aos="fade-right"
-    data-aos-offset="200"
     data-aos-easing="ease-in-sine"
   >
     <h1 className="section-header">工作經歷</h1>

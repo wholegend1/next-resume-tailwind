@@ -106,9 +106,6 @@
           "name": "Vue"
         },
         {
-          "name": "Spring"
-        },
-        {
           "name": "Angular"
         },
         {
@@ -171,7 +168,7 @@
       "name": "Next Resume Starter",
       "company": "Open source",
       "description": "Next Resume Tailwind 這是我第一份製作的履歷。",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "link": "https://github.com/wholegend1/next-resume-tailwind"
     }
   ],
   "fullname": "Chang Wilbur"
