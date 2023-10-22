@@ -10,9 +10,9 @@ interface HeaderProps {
 }
 
 const Header = ({ name, role, contacts }: HeaderProps) => (
-  <header className="border-b border-gray-300 pb-2 md:flex items-center justify-between">
+  <header className="pb-2 md:flex items-center justify-between">
     <div>
-      <h1 className="text-sky-500 text-4xl md:text-5xl font-bold tracking-wide leading-tight">
+      <h1 className="text-black text-4xl md:text-5xl font-bold tracking-wide leading-tight">
         {name}
       </h1>
       <h2 className="font-light text-lg md:text-2xl text-sky-900 leading-relaxed tracking-widest">
